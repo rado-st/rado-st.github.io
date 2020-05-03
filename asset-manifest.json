@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.34815570.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.34815570.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.95ebd243.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.95ebd243.js.map",
-    "static/css/2.c9fbf016.chunk.css": "/portfolio/static/css/2.c9fbf016.chunk.css",
-    "static/js/2.bf2d61c0.chunk.js": "/portfolio/static/js/2.bf2d61c0.chunk.js",
-    "static/js/2.bf2d61c0.chunk.js.map": "/portfolio/static/js/2.bf2d61c0.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.628ffd9a60dac893f34086095d29fc52.js": "/portfolio/precache-manifest.628ffd9a60dac893f34086095d29fc52.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.c9fbf016.chunk.css.map": "/portfolio/static/css/2.c9fbf016.chunk.css.map",
-    "static/js/2.bf2d61c0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bf2d61c0.chunk.js.LICENSE.txt",
-    "static/media/gulvsliping.png": "/portfolio/static/media/gulvsliping.11202042.png",
-    "static/media/portfolio.png": "/portfolio/static/media/portfolio.ad15cb98.png",
-    "static/media/profile-pic.jpg": "/portfolio/static/media/profile-pic.39297b93.jpg"
+    "main.js": "/rado-st/static/js/main.f509678b.chunk.js",
+    "main.js.map": "/rado-st/static/js/main.f509678b.chunk.js.map",
+    "runtime-main.js": "/rado-st/static/js/runtime-main.4b575c53.js",
+    "runtime-main.js.map": "/rado-st/static/js/runtime-main.4b575c53.js.map",
+    "static/css/2.c9fbf016.chunk.css": "/rado-st/static/css/2.c9fbf016.chunk.css",
+    "static/js/2.bf2d61c0.chunk.js": "/rado-st/static/js/2.bf2d61c0.chunk.js",
+    "static/js/2.bf2d61c0.chunk.js.map": "/rado-st/static/js/2.bf2d61c0.chunk.js.map",
+    "index.html": "/rado-st/index.html",
+    "precache-manifest.fc762093c761b758bedf30ab1d51dbdd.js": "/rado-st/precache-manifest.fc762093c761b758bedf30ab1d51dbdd.js",
+    "service-worker.js": "/rado-st/service-worker.js",
+    "static/css/2.c9fbf016.chunk.css.map": "/rado-st/static/css/2.c9fbf016.chunk.css.map",
+    "static/js/2.bf2d61c0.chunk.js.LICENSE.txt": "/rado-st/static/js/2.bf2d61c0.chunk.js.LICENSE.txt",
+    "static/media/gulvsliping.png": "/rado-st/static/media/gulvsliping.11202042.png",
+    "static/media/portfolio.png": "/rado-st/static/media/portfolio.ad15cb98.png",
+    "static/media/profile-pic.jpg": "/rado-st/static/media/profile-pic.39297b93.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.95ebd243.js",
+    "static/js/runtime-main.4b575c53.js",
     "static/css/2.c9fbf016.chunk.css",
     "static/js/2.bf2d61c0.chunk.js",
-    "static/js/main.34815570.chunk.js"
+    "static/js/main.f509678b.chunk.js"
   ]
 }
