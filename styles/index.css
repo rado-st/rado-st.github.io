@@ -798,6 +798,7 @@ template {
   .projects_project {
     display: block;
     width: 100%;
+    height: 250px;
     cursor: pointer;
     border: 5px solid;
     transition: all 0.2s ease-in-out;
