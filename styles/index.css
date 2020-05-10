@@ -797,7 +797,8 @@ template {
         top: 50%; } }
   .projects_project {
     display: block;
-    width: 100%;
+    width: 80%;
+    margin: 5px auto;
     height: 180px;
     cursor: pointer;
     border: 5px solid;
@@ -805,19 +806,17 @@ template {
     backface-visibility: hidden; }
     @media (min-width: 992px) {
       .projects_project {
-        height: 250px; } }
+        height: 250px;
+        width: 100%; } }
   .projects_middle {
     width: 350px;
     opacity: 1;
     position: absolute;
-    top: 109%;
+    top: 117%;
     left: 50%;
     transform: translate(-50%);
     text-align: center;
     transition: all 0.2s ease-in-out; }
-    @media (min-width: 576px) {
-      .projects_middle {
-        top: 108%; } }
     @media (min-width: 992px) {
       .projects_middle {
         opacity: 0;
