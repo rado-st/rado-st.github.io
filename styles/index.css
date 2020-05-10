@@ -804,10 +804,11 @@ template {
     border: 5px solid;
     transition: all 0.2s ease-in-out;
     backface-visibility: hidden; }
-    @media (min-width: 992px) {
+    @media (min-width: 768px) {
       .projects_project {
         height: 250px;
-        width: 100%; } }
+        width: 100%;
+        margin: 0; } }
   .projects_middle {
     width: 350px;
     opacity: 1;
